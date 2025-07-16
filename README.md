@@ -1,31 +1,20 @@
 # DSA-Palmora-Group-Project
-This is how I built my Power BI project after learning with the incubator HUB
-DSA-Amazon-Review-Project
-This an excel based analytic project prepared after a three month training with DSA (The Incubator Hub) , the project consist of a data set from Amazon review page, which includes product details, name, category, price, discount, ratings e.t.c.
+This project is focused on analysing the employee data of Plamoria Group in Nigeria, based on the accusations of gender inequality within the company by a media headline. 
 
-This is where I put to work all I have learnt in the excel class after training.
+### Project Aim:
+The aim of this project is to analyse the Palmore group employee data, across all department and region and generate insights on the following:  
+- The gender distribution in the organisation.
+- Individual work rating based on gender.
+- Identify any pay dgap in the company salary structure, and in which department or region.
+-  Reveal the pay distribution of employee by a band of $10,000 each and see if Palmora meets up with a recent regulation for manufacturing companies to pay employees a minimum of $90,000.
 
-## Project Topic: AMAZON PRODUCT REVIEW
-### Project Overview:
-This data analysis project is aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement, and in turn, assist all stakeholer to make an informed decision for the growth of the organisation.
-
-Data Source:
+#### Data Source:
 The data is a CSV file supplied by The Incubator Hub downloaded from my LMS into my local drive, it consist of 1465 rows and 16 columns.
 
-Tools Used:
-All the work was done using Microsoft excel to perform the following:
+#### Tools Used:
+All the work was done using Power BI to perform the following:
+- ETL, Extaction of the data from source, Transforming (data cleaning) before loading for proper analysis and visualisation.
+- Joining the provided bonus rules table by unpivoting and merging columns.
+- Creating calculated columns such as bonus amount, new salary, and salary range to achieve the project aim.
+- Visualising the analysed table for proper insights and recommendations.
 
-Data collection
-Data cleaning
-Creating calculated column
-Creating Pivot Table
-Creating Dash board
-Data Cleaning and Preparation
-I perfomed the following action in the data cleaning and preparation stage.
-
-Data collection: by uploading the data from my local drive
-Deleting some columns not needed.
-Removing duplicated rows
-removing blank rows
-spliting columns with unneccessary long words and extracing the key words
-Exploiratory Data Analysis
