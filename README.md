@@ -24,7 +24,13 @@ All the work was done using Power BI to perform the following:
 - Male employee earn slightly higher across all region, a closer review is recomended.
 - The chart reveals that salaries should be reviewed for Palmora to meet up with the recent regulation for manufacturing companies.
 
+[palmora pdf.pdf](https://github.com/user-attachments/files/21260509/palmora.pdf.pdf)
+
+[DSA Palmora project.pdf2.pdf](https://github.com/user-attachments/files/21260539/DSA.Palmora.project.pdf2.pdf)
+
 #### About the analyst
+
 Prepared by: 
+
 ##### Olusola Awolokun
 Procurement Specialist/ Analyst.
